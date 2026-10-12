@@ -1,0 +1,13 @@
+# Codomax Internship — Module 5: AI Tools & Mini Project
+# Core Dependencies
+streamlit>=1.30.0
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Optional Live AI API Connectors (Zero-config offline mode works without these)
+google-genai>=0.1.0
+google-generativeai>=0.5.0
+python-dotenv>=1.0.0
